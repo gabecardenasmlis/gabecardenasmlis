@@ -2787,12 +2787,17 @@ section.lazy-placeholder:after {
 }
 .cid-rTfpEVQlZf {
   padding-top: 120px;
-  padding-bottom: 60px;
+  padding-bottom: 0px;
   background-color: #ffffff;
 }
 .cid-rTfpEVQlZf .mbr-text,
 .cid-rTfpEVQlZf blockquote {
   color: #767676;
+}
+.cid-rTs0kZfMRK {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
 }
 .cid-rQTAsLHJHv .navbar {
   background: #ffffff;
