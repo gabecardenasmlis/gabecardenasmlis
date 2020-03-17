@@ -3198,11 +3198,16 @@ section.lazy-placeholder:after {
 }
 .cid-rTfq7b5BJE {
   padding-top: 120px;
-  padding-bottom: 60px;
+  padding-bottom: 0px;
   background-color: #ffffff;
 }
 .cid-rTfq7b5BJE .mbr-text {
-  color: #767676;
+  color: #232323;
+}
+.cid-rTrYRVpAx2 {
+  padding-top: 0px;
+  padding-bottom: 120px;
+  background-color: #ffffff;
 }
 .cid-rQTAsLHJHv .navbar {
   background: #ffffff;
