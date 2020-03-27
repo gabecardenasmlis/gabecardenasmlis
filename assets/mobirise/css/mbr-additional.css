@@ -2363,17 +2363,18 @@ section.lazy-placeholder:after {
 .cid-rTfp7oAMLM {
   padding-top: 120px;
   padding-bottom: 120px;
-  background-color: #2e2e2e;
+  background-color: #ffffff;
 }
 .cid-rTfp7oAMLM .line {
-  background-color: #ffffff;
-  color: #ffffff;
+  background-color: #232323;
+  color: #232323;
   align: center;
   height: 2px;
   margin: 0 auto;
 }
 .cid-rTfp7oAMLM .section-text {
   padding: 2rem 0;
+  color: #232323;
 }
 .cid-rTfp7oAMLM .inner-container {
   margin: 0 auto;
